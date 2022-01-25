@@ -9,4 +9,4 @@ This repository works as an additional resource to a blog post published on [Upb
 ## Code Examples
 
 - How to use React Portals
-- How to implement Notification
+- How to implement Notifications in React
